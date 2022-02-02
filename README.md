@@ -5,6 +5,9 @@ To-Do List /C# İle Windows Forms Uygulaması Örneği
 ```markdown
 ### Kullanım Kılavuzu:
 -> Sisteminizde .Net Framework bulunması gerekiyor!
+
+### Özellikler:
+-> Yazdığınız şeyleri not eder ve bir sonraki açışınızda da gösterir.
 ```
 ### Önizleme:
 
